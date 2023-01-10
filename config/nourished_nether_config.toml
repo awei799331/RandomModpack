@@ -1,0 +1,10 @@
+
+[Config]
+	"Redstone Basalt Ore Generation" = false
+	"Basaltic Iron Generation" = true
+	"Soul Quartz Ore Generation" = false
+	"Basalt Delta Ash Piles" = true
+
+	[Config.Misc]
+		" Ash Piles" = true
+

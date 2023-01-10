@@ -77,4 +77,6 @@
 	show_fishing_marker = true
 	#Prevent night vision from flashing when less than 5 seconds left [false/true|default:true]
 	no_blinking_nightvision = true
+	#Shows shadow step particles [false/true|default:true]
+	show_shadow_step = true
 

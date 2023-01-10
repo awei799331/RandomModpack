@@ -49,6 +49,27 @@
   "tombstone": {
     "graves": true
   },
+  "mekanism": {
+    "infuse_type": true,
+    "gas": true,
+    "remove_builtin": true,
+    "pigment": true,
+    "fluid": true,
+    "slurry": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "immersiveengineering": {
+    "hemp": true,
+    "multiblock_icon": true
+  },
+  "create": {
+    "filter": true,
+    "blaze_burner": true,
+    "exact_block": true,
+    "crafting_blueprint": true,
+    "placard": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -57,6 +78,9 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "mcjtylib": {
+    "jadeaddons": true
+  },
   "apotheosis": {
     "adventure": true,
     "ench": true,
@@ -64,5 +88,17 @@
   },
   "waystones": {
     "waystone": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
   }
 }
